@@ -1155,17 +1155,6 @@ Par exemple :
 
 Les schémas doivent correspondre aux structures réellement utilisées dans l'application.
 
-### Partie C — Démonstration
-
-Préparer une démonstration de 5 à 10 minutes présentant :
-
-1. L'accès à Swagger UI.
-2. La liste des endpoints documentés.
-3. La création d'un donneur.
-4. La consultation d'un donneur.
-5. L'authentification JWT.
-6. Le test d'un endpoint protégé.
-7. L'affichage d'une erreur.
 
 ### Partie D — Documentation du projet
 
